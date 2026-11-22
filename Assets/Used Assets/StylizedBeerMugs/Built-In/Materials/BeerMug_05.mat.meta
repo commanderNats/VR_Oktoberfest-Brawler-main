@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 208131ee65d46c14e841b478aa59418c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 402848
+  packageName: Stylized Beer Mugs
+  packageVersion: 1.0
+  assetPath: Assets/StylizedBeerMugs/Built-In/Materials/BeerMug_05.mat
+  uploadId: 982204

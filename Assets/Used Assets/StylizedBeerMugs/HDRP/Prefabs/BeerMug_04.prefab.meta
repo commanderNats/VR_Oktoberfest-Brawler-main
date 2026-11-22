@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c67c712c9d21e63489aa1e7e7e805a9f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 402848
+  packageName: Stylized Beer Mugs
+  packageVersion: 1.0
+  assetPath: Assets/StylizedBeerMugs/HDRP/Prefabs/BeerMug_04.prefab
+  uploadId: 982204
